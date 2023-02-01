@@ -9,6 +9,7 @@
 
 
     <androidx.appcompat.widget.SearchView
+        android:id="@+id/searchView"
         app:iconifiedByDefault="false"
         app:queryHint="search notes"
 
